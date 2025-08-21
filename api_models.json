@@ -1,0 +1,16 @@
+{
+  "models": [
+   "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models_webp/card_model_3.webp", 
+"https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models_webp/card_model_2.webp",
+"https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models_webp/card_model_4.webp",
+"https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models_webp/card_model_5.webp",
+"https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models_webp/card_model_6.webp",
+     "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models_webp/card_model.webp",
+    "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models_webp/card_model_1.webp",
+"https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models_webp/card_model_7.webp",
+"https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models_webp/card_model_8.webp",
+"https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models_webp/card_model_9.webp",
+"https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models_webp/card_model_10.webp",
+"https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models_webp/card_model_11.webp"
+  ]
+}
