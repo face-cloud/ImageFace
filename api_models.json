@@ -1,8 +1,6 @@
 {
   "models": [
     "https://raw.githubusercontent.com/face-cloud/ImageFace/refs/heads/main/models/1_11zon.webp", 
-    "https://raw.githubusercontent.com/face-cloud/ImageFace/refs/heads/main/models/2_11zon.webp, 
-   "https://raw.githubusercontent.com/face-cloud/ImageFace/refs/heads/main/models/1.webp", 
     "https://raw.githubusercontent.com/face-cloud/ImageFace/refs/heads/main/models/2.webp", 
     "https://raw.githubusercontent.com/face-cloud/ImageFace/refs/heads/main/models/3.webp", 
     "https://raw.githubusercontent.com/face-cloud/ImageFace/refs/heads/main/models/4.webp", 
